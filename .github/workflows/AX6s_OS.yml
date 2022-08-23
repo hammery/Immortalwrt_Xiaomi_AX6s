@@ -9,7 +9,7 @@
 #
 
 
-name: Redmi_AX6S_OS
+name: Redmi_AX6S_OS_202208
 
 on:
   repository_dispatch:
